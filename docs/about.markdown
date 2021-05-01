@@ -5,8 +5,10 @@ permalink: /about/
 ---
 
 
-![image](Capture.PNG)
+{% include carousel1.html %}
 
+    
+     
 
 Hi, I am [Sachin](https://www.linkedin.com/in/sachin%F0%9F%98%8E-agrawal-b33837b9/). I am currently working as a machine learning engineer at Mercedes Benz Cars. In my current project, I develop insights from customer data for product improvement. 
 
