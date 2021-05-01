@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![image](Capture.png)
 
 
-[jekyll-organization]: https://github.com/jekyll
+Hi, I am [Sachin](https://www.linkedin.com/in/sachin%F0%9F%98%8E-agrawal-b33837b9/). I am currently working as a machine learning engineer at Mercedes Benz Cars. In my current project, I develop insights from customer data for product improvement. 
+
+This website serves as a space for me to share my latest interests. I am into all things tech. In my free time I like to go on hikes, cook and workout. 
+
