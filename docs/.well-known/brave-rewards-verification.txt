@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sachin-aag.github.io
+Token: 0f70bd2733eb27b8269939fd3df51b004b224acadee6824df1a82268aa39e3cd
