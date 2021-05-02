@@ -82,7 +82,7 @@ It is quite difficult to pull off a 51% attack on large cryptocurrencies like bi
 
 A malicious government might want to do this in order to take control of the bitcoin network. However, if this happens, it would cause a fork in the bitcoin chain as soon as the users realize what has happened. Nobody would want to stay on the compromised blockchain.
 
- <iframe width="420" height="315" src="https://www.youtube.com/watch?v=ncPyMUfNyVM&feature=emb_imp_woyt" ></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ncPyMUfNyVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This video summarizes this brilliantly. Note that a 51% attack might still be profitable for smaller cryptocurrencies.
 
