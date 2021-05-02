@@ -2,7 +2,7 @@
 layout: post
 title:  "Is Bitcoin Really Decentralised?"
 date:   2021-05-01 23:09:43 +0200
-categories: capitalism brave chrome advertising
+categories: bitcoin decentralisation cryptocurrency
 ---
 >  I’ve been working on a new electronic cash system that’s fully
 peer-to-peer, with no trusted third party. — Satoshi Nakamoto
