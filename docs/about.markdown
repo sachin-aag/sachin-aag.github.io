@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Life
+title: My Life🤸‍♂️
 permalink: /mylife/
 ---
 
