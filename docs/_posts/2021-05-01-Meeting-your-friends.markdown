@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Meeting Your Friends"
-date:   2021-05-01 23:09:43 +0200
+date:   2021-05-01 23:06:43 +0200
 categories: bitcoin decentralisation cryptocurrency blockchain
 ---
 
