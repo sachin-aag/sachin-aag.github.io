@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Rethinking Digital Advertising"
-date:   2021-05-01 23:10:43 +0200
-categories: capitalism brave chrome advertising
+title:  "Two Years as a Data Scientist"
+date:   2021-06-09 23:10:43 +0200
+categories: data science corporate humor 
 ---
 
 
