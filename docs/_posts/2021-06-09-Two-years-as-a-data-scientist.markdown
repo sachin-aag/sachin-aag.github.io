@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Rethinking Digital Advertising"
+date:   2021-05-01 23:10:43 +0200
+categories: capitalism brave chrome advertising
+---
+
+
 ### Two years as a Data Scientist
 
 What I learned working for two years as a data scientist coming in straight from
