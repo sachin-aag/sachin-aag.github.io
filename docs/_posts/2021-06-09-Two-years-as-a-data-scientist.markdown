@@ -6,7 +6,6 @@ categories: data science corporate humor
 ---
 
 
-### Two years as a Data Scientist
 
 What I learned working for two years as a data scientist coming in straight from
 university.
