@@ -30,6 +30,7 @@ github_username:  sachin-aag
 theme: minima
 plugins:
   - jekyll-feed
+ google_analytics: G-R54L5QMKD2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
