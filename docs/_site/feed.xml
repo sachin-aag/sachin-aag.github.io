@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-22T01:43:48+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sachin Agrawal</title><subtitle>Hi, I am Sachin. I am currently working as a machine learning engineer at Mercedes Benz Cars. In my current project, I develop insights from customer data for product improvement. This website serves as a space for me to share my latest interests. I am into all things tech. In my free time I like to go on hikes, cook and workout. </subtitle><entry><title type="html">Two Years as a Data Scientist</title><link href="http://localhost:4000/data/science/corporate/humor/2021/06/09/Two-years-as-a-data-scientist.html" rel="alternate" type="text/html" title="Two Years as a Data Scientist" /><published>2021-06-09T23:10:43+02:00</published><updated>2021-06-09T23:10:43+02:00</updated><id>http://localhost:4000/data/science/corporate/humor/2021/06/09/Two-years-as-a-data-scientist</id><content type="html" xml:base="http://localhost:4000/data/science/corporate/humor/2021/06/09/Two-years-as-a-data-scientist.html">&lt;p&gt;What I learned working for two years as a data scientist coming in straight from
+university.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The speed at which things move in most companies is appallingly slow compared to
+university. Testing, architecture, data cleaning, documentation, audits, admin,
+……. eat into productive time.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Your project will move at the speed of trust.&lt;/strong&gt; The most important thing for
+speed is to have a team which trusts each other. The next most important thing
+is trust with stakeholders (customers and suppliers). Most projects move slowly
+because Person A needs a meeting with Person B who needs a meeting with Person C
+to take each decision.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Software is agile. Architecture is not necessarily agile.&lt;/strong&gt; In order to
+leverage the true power of software, you need an agile team working with a
+stable architecture. Some teams lose too much time due to constant architecture
+changes each year.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Your manager does not have much power.&lt;/strong&gt; Ever wonder why that useless
+colleague of yours makes more money than you? Its probably cause he has been
+around longer and your manager cant do much to get rid of him.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;New technologies are fun to read about but hard to deploy.&lt;/strong&gt; Imagine if it
+made sense to migrate your database to a blockchain in a company where nobody
+knew what a blockchain was. How many people would be willing to learn it? Even
+if they did learn it, is the ecosystem behind the technology mature enough for
+you to actually do something with it? Think about doing data analysis on a
+blockchain vs on a normal database, and the difference between the ecosystems.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The impulse to re-do the whole project at time of joining is strong.&lt;/strong&gt; If you
+are the new guy, you should only suggest 20% of the changes you wish to make. If
+you are the incumbent developer, it is important to justify previous decisions.
+THis is why decision logs are super important, esp on projects with high
+attrition rates. Some great resources :
+&lt;a href=&quot;https://adr.github.io/&quot;&gt;https://adr.github.io/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Have a good playlist for coding. Currently listening to this:
+&lt;a href=&quot;https://open.spotify.com/playlist/0yw4N3Mt1EleKHM7ZamjFK?si=a6d4cd65589c4a04&quot;&gt;https://open.spotify.com/playlist/0yw4N3Mt1EleKHM7ZamjFK?si=a6d4cd65589c4a04&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Being bad at your job might actually be good for your career.&lt;/strong&gt; Essentially
+your manager might want to promote you cause you suck at your job and your
+manager has no other way of getting rid of you.
+(&lt;a href=&quot;https://en.wikipedia.org/wiki/Dilbert_principle&quot;&gt;https://en.wikipedia.org/wiki/Dilbert_principle&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;It is hard to be bad at your job&lt;/strong&gt;. You probably have an impulse to get
+people’s approval and that is a tough one to suppress&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;VScode is awesome.&lt;/strong&gt; You can link spotify to VScode. Whoo!&lt;/li&gt;
+  &lt;li&gt;Read books. Probably the investment ever.&lt;/li&gt;
+  &lt;li&gt;Scrolling reddit at work is fun. Especially for coding memes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Writing documentation is painful. Keeping it up to date is impossible.&lt;/strong&gt;
+Mostly people update the code but forget to update the documentation. Seriously,
+if somebody can build something for this, it would be awesome.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Testing data science code is tough.&lt;/strong&gt; You need this test dataset and then you
+need to maintain it and more often than not, you edit the test after each change
+you make. You spend 10 mins writing the code and an hour editing the test.&lt;/li&gt;
+  &lt;li&gt;OOP is garbage for data science more often than not.&lt;/li&gt;
+  &lt;li&gt;Machine learning is a very tiny part of most data science projects if there at
+all.&lt;/li&gt;
+  &lt;li&gt;Try not to waste too much time finding the perfect VScode theme.&lt;/li&gt;
+  &lt;li&gt;Having friends at work can be nice. But I find myself to be happier in jobs
+where I do not have friends.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Use emojis in all commit messages.&lt;/strong&gt;
+&lt;a href=&quot;https://gitmoji.dev/&quot;&gt;https://gitmoji.dev/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Operations is hard and boring and adds little value to your CV. Big projects can
+afford to hire a separate operations team. But for small projects, operations
+start eating into the time and resources of the dev team. Eventually the best
+people leave and then the project just gets restarted with a brand new team.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Large meetings suck.&lt;/strong&gt; They might as well be happening in German and it makes
+no difference.&lt;/li&gt;
+  &lt;li&gt;Someone needs to make a VScode extenstion which allows me to run
+&lt;a href=&quot;https://www.kaleidosync.com/&quot;&gt;https://www.kaleidosync.com/&lt;/a&gt; inside VScode.
+Seriously. I just want to look at cool visuals while coding. Also while doing
+LSD.&lt;/li&gt;
+  &lt;li&gt;Side-projects are fun to fantasize about.&lt;/li&gt;
+  &lt;li&gt;Writing is an awesome tool to sharpen your thinking. Clear writing forces clear
+thinking and not the other way around.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hire interns. Seriously, those guys are awesome&lt;/strong&gt; and will work their ass off
+for almost no money. I have picked up some awesome new skills and made some
+awesome friends thanks to this.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Use memes to say offensive things in presentations.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Write documentation after getting drunk&lt;/strong&gt; and put in some funny stuff. Wait
+and watch how long it takes someone to notice. More often than not, nobody reads
+that stuff anyway.&lt;/li&gt;
+  &lt;li&gt;Work from home is awesome but we need to be around each other. &lt;strong&gt;Digital
+connectivity is awesome but it makes it hard to generate empathy.&lt;/strong&gt; Its also
+difficult to show people you care over digital mediums. Your boss has a very
+different digital body language as compared to you.&lt;/li&gt;
+  &lt;li&gt;Have a life outside work. Pickup some hobbies and not just reading and working
+out. Actually create something physical. It could be cooking or just doing those
+3000 piece puzzles.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="data" /><category term="science" /><category term="corporate" /><category term="humor" /><summary type="html">What I learned working for two years as a data scientist coming in straight from university.</summary></entry><entry><title type="html">Rethinking Digital Advertising</title><link href="http://localhost:4000/capitalism/brave/chrome/advertising/2021/05/01/Rethinking-Digital-Advertising.html" rel="alternate" type="text/html" title="Rethinking Digital Advertising" /><published>2021-05-01T23:10:43+02:00</published><updated>2021-05-01T23:10:43+02:00</updated><id>http://localhost:4000/capitalism/brave/chrome/advertising/2021/05/01/Rethinking-Digital-Advertising</id><content type="html" xml:base="http://localhost:4000/capitalism/brave/chrome/advertising/2021/05/01/Rethinking-Digital-Advertising.html">&lt;blockquote&gt;
+  &lt;p&gt;Old George Orwell got it backward. Big Brother isn’t watching. He’s singing and dancing. He’s pulling rabbits out of a hat. Big Brother’s busy holding your attention every moment you’re awake. He’s making sure you’re always distracted. He’s making sure you’re fully absorbed. He’s making sure your imagination withers. Until it’s as useful as your appendix. He’s making sure your attention is always filled.And this being fed, it’s worse than being watched. With the world always filling you, no one has to worry about what’s in your mind. With everyone’s imagination atrophied, no one will ever be a threat to the world. — Chuck Palahniuk&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/surveillance_cap/cap1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;digital-advertising-is-broken&quot;&gt;Digital Advertising is Broken&lt;/h2&gt;
+
+&lt;p&gt;Google and Facebook make most of their revenue through ads. However, in the beginning, both companies hated the idea of showing ads. In fact, the founders of Google were very clear on this point: &lt;a href=&quot;http://infolab.stanford.edu/~backrub/google.html&quot;&gt;“we expect that advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/surveillance_cap/cap2.png&quot; alt=&quot;All data collected is used to improve the product&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Google would collect user data in order to improve its search results. The more people used search, the better search became over time. This was a fair tradeoff and a valid reason for Google to collect data.&lt;/p&gt;
+
+&lt;p&gt;The problem with this model is that it makes no money. In order to start making money, user data started being used to serve ads. Not just that, it was used to predict our future behaviors, in order to predict which ads to serve us at which times.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/surveillance_cap/cap3.png&quot; alt=&quot;Data collected is also used to serve ads and predict behavior&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the new model, Google and Facebook would use most of their machine learning prowess not for product improvement, but for advertising and for predicting our future behaviors. It is also important to note the sheer market share Google and Facebook control in terms of online advertising. Together they claim over 54% of online digital ad revenue. Amazon seems to be catching up quickly, controlling 10% of online digital ad revenue.&lt;/p&gt;
+
+&lt;p&gt;Forget the cliche, “if it’s free, you are the product”.You are not the product. You are the abandoned carcass of what is left after extracting every bit of information about you and using it to get you hooked.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.pewresearch.org/fact-tank/2016/09/21/the-state-of-privacy-in-america/&quot;&gt;91% of adults agree or strongly agree that users have lost control of how personal information is collected and used by companies.&lt;/a&gt; A large majority, 64%, believe that the government should do more to regulate advertisers regarding how they use and store personal information. This is not surprising, given that a visit to a popular media site can often have 70 trackers set loose on the reader.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/surveillance_cap/extra_data.png&quot; alt=&quot;Amount of data consumed by some ad publishers&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ads also lead to more data consumption and more battery consumption which can lead to a terrible experience, especially on mobile phones.&lt;/p&gt;
+
+&lt;p&gt;There are many more problems with digital advertising industry as of today. The main problem here is that the industry is not built for the users. It is meant to extract as much value as possible from users. Uncertainty is the enemy, and both Google and Facebook have gone to great lengths to remove any uncertainty about their user’s lives. All this comes at the cost of privacy and our right to the future.&lt;/p&gt;
+
+&lt;h2 id=&quot;is-google-becoming-privacy-first&quot;&gt;Is Google becoming Privacy-First?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/surveillance_cap/browser_share.png&quot; alt=&quot;Browser share&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Google recently announced that they will be phasing out the use of 3rd party cookies by 2022 for tracking users from its Chrome browser. Google is kind of late to the party, as many browsers have already stopped supporting 3rd party cookies. However, Chrome does contain the largest market share. Hence, this was an important announcement. Google has also said that it will not use alternative identifiers to track individuals as they browse across the web.&lt;/p&gt;
+
+&lt;p&gt;At first this might seem like Google is finally starting to respect the privacy of users. But looking at Google’s past actions, I highly doubt this.&lt;/p&gt;
+
+&lt;p&gt;The removal of 3rd party cookies without another alternative for collecting user data would lead to a significant drop in ad revenue (&lt;a href=&quot;https://www.blog.google/products/chrome/building-a-more-private-web&quot;&gt;by 52% as per some estimates&lt;/a&gt;). This might lead to websites using more aggressive means of tracking like &lt;a href=&quot;https://en.wikipedia.org/wiki/Device_fingerprint#Browser_fingerprint&quot;&gt;browser fingerprinting&lt;/a&gt;, which, as the name suggests, is a way to collect information allowing websites to identify your browser uniquely. There are a lot of innovative ways to do this, &lt;a href=&quot;https://fingerprintjs.com/blog/audio-fingerprinting/&quot;&gt;including playing millisecond audio files through a website and checking how they respond&lt;/a&gt;. If such practices go mainstream, it would be terrible for privacy.&lt;/p&gt;
+
+&lt;p&gt;Google recently announced FLoC as a “privacy respecting” alternative to 3rd party cookies.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-the-heck-is-floc&quot;&gt;What the Heck is FLoC?&lt;/h3&gt;
+
+&lt;p&gt;FLoC stands for Federated learning of cohorts. Essentially, Google would assign you to a cohort based on your browsing history. Google has also said that they would only start using a cohort for targeted advertising if it is bigger than a certain size allowing for &lt;a href=&quot;https://en.wikipedia.org/wiki/K-anonymity#:~:text=The%20concept%20of%20k%2Danonymity,subjects%20of%20the%20data%20cannot&quot;&gt;k-anonymity&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This enables interest based targeted advertising, while keeping your identity anonymous. Your cohort is determined using Federated learning, which means that nobody really knows what the interests of a cohort are. This needs to be figured out by the advertisers.&lt;/p&gt;
+
+&lt;p&gt;The main point here is that your cohort is a number derived from your recent browsing history. Which also means that your browsing history will follow you around the internet.&lt;/p&gt;
+
+&lt;p&gt;While this does solve some of the anonymity issues around privacy, it still does not solve the major issues. This sort of algorithm can still be used to manipulate user behaviour, which can lead to all sorts of bad consequences, especially when it comes to political ads. &lt;strong&gt;The biggest problem here is that digital advertising is still about the user and not for the user. In order to fix digital advertising, we need to &lt;a href=&quot;https://en.wikipedia.org/wiki/Mechanism_design#:~:text=Mechanism%20design%20is%20a%20field,settings%2C%20where%20players%20act%20rationally.&quot;&gt;design a mechanism&lt;/a&gt; which works in the best interests of the user.&lt;/strong&gt; How can we do this?&lt;/p&gt;
+
+&lt;h2 id=&quot;enter-brave-browser&quot;&gt;Enter Brave Browser&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/surveillance_cap/brave.png&quot; alt=&quot;Brave icon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://brave.com/&quot;&gt;Brave &lt;/a&gt;is a new privacy respecting browser. Led by &lt;a href=&quot;https://en.wikipedia.org/wiki/Brendan_Eich&quot;&gt;Brendan Eich&lt;/a&gt;(founder of Mozilla and inventor of Javascript), not only does Brave provide an amazing browsing experience, it also re-thinks the economics of digital advertising.&lt;/p&gt;
+
+&lt;p&gt;Receiving ads is an opt-in service which the browser provides. It incentivises users to opt-in for ads by paying them the lion’s share of the ad revenue in cryptocurrency. This is also one of the best uses for a cryptocurrency out there as of today. Furthermore, users’ data never leaves their machines, and all analytics is done on the user’s device itself.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/surveillance_cap/cap4.png&quot; alt=&quot;Brave pays the user to watch ads and does not collect you data&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Essentially, Brave makes the internet for the users and not just about the users. The only problem is that it leads to lesser ad revenues for publishers, as the data available to them is less rich, and not everybody is going to opt-in for ads.&lt;/p&gt;
+
+&lt;p&gt;However, ad revenues are already on the decline for publishers. In recent times there has been an increase in the number of ad blockers on devices. Furthermore, other revenue streams such as merchandise and patreon have increased in importance for individual creators.&lt;/p&gt;
+
+&lt;p&gt;Brave re-thinks the economics of digital advertising in a radical way. It shows that it is possible to serve ads to users while respecting their privacy and providing direct benefit to them, instead of robbing users of every shred of behavioral surplus.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-future-of-advertising&quot;&gt;The Future of Advertising?&lt;/h2&gt;
+
+&lt;p&gt;Google’s business model is to collect your data and sell it to advertisers. They have claimed that governments and regulation are bad for progress. In order to keep the money coming in, they are always on the lookout for new methods of data collection from Android to Maps to Waymo. Google has entered every aspect of our life and it does not plan to stop. I would argue that the main purpose of IoT is to collect your data. Why else would I want my fridge talking to my phone?&lt;/p&gt;
+
+&lt;p&gt;It is also hard to imagine an internet without Google and Facebook. These companies are not going away anytime soon, irrespective of their attitudes towards the law. While there are attempts to re-think digital advertising, at the moment they have not achieved the scale needed to challenge the incumbents. In the mean time, Google and Facebook continue to find new avenues for data collection and advertising.&lt;/p&gt;
+
+&lt;p&gt;While consumers and regulators push for a privacy first internet, most people( and especially regulators) do not understand the technologies which are constantly evolving, allowing internet companies to use jargon and rhetoric to advance their agenda.&lt;/p&gt;
+
+&lt;p&gt;With the chips stacked against privacy, it will be a long and hard battle before the internet becomes a place which puts the consumers interests at the forefront.&lt;/p&gt;</content><author><name></name></author><category term="capitalism" /><category term="brave" /><category term="chrome" /><category term="advertising" /><summary type="html">Old George Orwell got it backward. Big Brother isn’t watching. He’s singing and dancing. He’s pulling rabbits out of a hat. Big Brother’s busy holding your attention every moment you’re awake. He’s making sure you’re always distracted. He’s making sure you’re fully absorbed. He’s making sure your imagination withers. Until it’s as useful as your appendix. He’s making sure your attention is always filled.And this being fed, it’s worse than being watched. With the world always filling you, no one has to worry about what’s in your mind. With everyone’s imagination atrophied, no one will ever be a threat to the world. — Chuck Palahniuk</summary></entry><entry><title type="html">Is Bitcoin Really Decentralised?</title><link href="http://localhost:4000/bitcoin/decentralisation/cryptocurrency/2021/05/01/Is-Bitcoin-Really-Decentralised.html" rel="alternate" type="text/html" title="Is Bitcoin Really Decentralised?" /><published>2021-05-01T23:09:43+02:00</published><updated>2021-05-01T23:09:43+02:00</updated><id>http://localhost:4000/bitcoin/decentralisation/cryptocurrency/2021/05/01/Is-Bitcoin-Really-Decentralised</id><content type="html" xml:base="http://localhost:4000/bitcoin/decentralisation/cryptocurrency/2021/05/01/Is-Bitcoin-Really-Decentralised.html">&lt;blockquote&gt;
+  &lt;p&gt;I’ve been working on a new electronic cash system that’s fully
+peer-to-peer, with no trusted third party. — Satoshi Nakamoto&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is the promise of bitcoin: A decentralized cash system, which works without any third party.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;As long as honest nodes control the most CPU power on the network, they can generate the longest chain and outpace any attackers. — Satoshi Nakamoto&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As long as honest nodes control the most computing power on the network, the network cannot be compromised. In this article I discuss how bitcoin is not as decentralized as most people think it to be and why this has come to be the case.&lt;/p&gt;
+
+&lt;h2 id=&quot;proof-of-work&quot;&gt;Proof of Work&lt;/h2&gt;
+
+&lt;p&gt;Let’s take a step back and talk about bitcoin mining. Bitcoin works on a proof of work consensus model. What this means, is that in order to approve a bitcoin transaction, some amount of computational work needs to be performed. Computational work in the case of bitcoin is the computation of a hash function with different inputs. Computational power is measured in terms of hash rate or the number of hashes one can perform per second.&lt;/p&gt;
+
+&lt;p&gt;Computational work is done by a network of miners, who get paid for their services, either in the form of a transaction fees or in newly generated bitcoins. The amount of bitcoin that gets generated with each block is fixed and gets halved each year.&lt;/p&gt;
+
+&lt;p&gt;Once a miner has performed the work needed to add a block, the other miners start working on the next block based on this block. The longest chain is considered to be the point of truth. In case of two blockchains of the same length, one just has to wait till one of them becomes longer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/decentralised/sidechain.jpeg&quot; alt=&quot;A sample blockchain. The purple blocks are stale blocks.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For example, in the above diagram, the black blocks represent the true version of the blockchain. The purple blocks are blocks for which a miner performed the proof of work and tried to add it to the blockchain. However, this was not included in the main chain as some other blocks were picked by the miners to be included in the chain.&lt;/p&gt;
+
+&lt;h2 id=&quot;brief-history-of-bitcoin-mining&quot;&gt;Brief History of Bitcoin Mining&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/decentralised/mining.png&quot; alt=&quot;Aggregate hash rate of bitcoin miners in Tera hashes/s over time&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The amount of computing power for bitcoin mining has grown over time. The plot below has the y axis in the log scale. As can be seen, mining power has increased rather quickly over the years. This is due to rapid improvements in hardware used for bitcoin mining.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/decentralised/mininghw.png&quot; alt=&quot;A timeline of bitcoin mining hardware&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When bitcoin was launched, people started mining bitcoin on their personal computers. Using a CPU, people were able to achieve a hash rate of 2–20 mega hashes per second, i.e. they could perform between 2 million and 20 million hashes in one second.&lt;/p&gt;
+
+&lt;p&gt;Pretty quickly, people figured out that GPUs could compute a hash function much more quickly as compared to a CPU. GPUs remained useful for mining bitcoin for a few years.&lt;/p&gt;
+
+&lt;p&gt;However, as bitcoin mining started to become a profitable venture, companies started to manufacture hardware designed specifically to mine bitcoin. These ASICs(application specific integrated circuits) consumed less power than GPUs and had a much higher hash rate than GPUs.&lt;/p&gt;
+
+&lt;p&gt;These days, most bitcoin mining is done in mining factories, where hundreds or thousands of ASICs are running together. This has made the barrier to entry for bitcoin mining extremely high.&lt;/p&gt;
+
+&lt;p&gt;As a sidenote, most ASICs for mining bitcoin are manufactured by a chinese company called &lt;a href=&quot;https://www.bitmain.com/&quot;&gt;Bitmain&lt;/a&gt;. By some estimates &lt;a href=&quot;https://spectrum.ieee.org/computing/networks/why-the-biggest-bitcoin-mines-are-in-china&quot;&gt;around 70% of the mining hardware is manufactured by them.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;mining-pools&quot;&gt;Mining Pools&lt;/h2&gt;
+
+&lt;p&gt;It became quite difficult for people to mine bitcoin by themselves as individual users as most people did not have the required hardware. Some people decided to pool their resources and split the computational work and rewards. The first mining pool was started in 2010 called &lt;a href=&quot;https://slushpool.com/home/&quot;&gt;slushpool&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/decentralised/btcpools.png&quot; alt=&quot;Bitcoin mining pool share of hash rates&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Today there are quite a few mining pools to choose from, although a large number of these are located in China, due to cheap availability of electricity.&lt;/p&gt;
+
+&lt;p&gt;Hence, if you wanted to start mining bitcoin today, you would have to invest in an ASIC, and join a mining pool, which would reward you based on the amount of computational work you do.&lt;/p&gt;
+
+&lt;p&gt;It is important to note that the top 5 mining pools control 63.4% of the computing power. However, individual miners can join and leave mining pools quite easily. If a mining pool acts unethically, the hope is that people will leave that pool and join another one. This has happened at least once with bitcoin, where GHash obtained more than 51% of the mining power. In this case, GHash raised their pool fees, encouraging miners to join another pool.&lt;/p&gt;
+
+&lt;p&gt;However, there have been instances of malicious 51% attacks on smaller cryptocurrencies, such as Bitcoin Gold and Ethereum classic. This goes against the promise of blockchain being unhackable and decentralized.&lt;/p&gt;
+
+&lt;h2 id=&quot;quantifying-bitcoin-decentralization&quot;&gt;Quantifying Bitcoin Decentralization&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Balaji_Srinivasan&quot;&gt;Balaji Srinivasan&lt;/a&gt; does a great job of quantifying decentralization in &lt;a href=&quot;https://news.earn.com/quantifying-decentralization-e39db233c28e&quot;&gt;this article&lt;/a&gt;. The basic idea is to identify the minimum number of parties that need to be compromised to compromise the blockchain.&lt;/p&gt;
+
+&lt;p&gt;In case of bitcoin mining, if the top 4 mining pools are compromised, it can lead to problems, at least up until the point the participants of the pool realise that something is wrong. At certain points in time, when only one pool controls a majority of the computing power, this party could act unethically, leading to price swings in the short term and allowing for illicit gains.&lt;/p&gt;
+
+&lt;h2 id=&quot;51-attack&quot;&gt;51% Attack&lt;/h2&gt;
+
+&lt;p&gt;What happens if one pool or a group of pools collude and take control of more than 51% of the computational power? Satoshi Nakamoto warns in his &lt;a href=&quot;https://bitcoin.org/bitcoin.pdf&quot;&gt;bitcoin whitepaper&lt;/a&gt; that in such cases bitcoin will no longer be decentralized.&lt;/p&gt;
+
+&lt;p&gt;There are two ways to exploit a 51% attack. The attacker could choose to double spend his cryptocurrency. The attacker could also choose to block specific transactions , for example, to target certain addresses. Lets talk about how these could happen.&lt;/p&gt;
+
+&lt;p&gt;Note that the pre-condition is that the attacker controls 51% of the mining power. Hence, he is able to mine blocks faster than anybody else. In order to double spend his cryptocurrency, the attacker could start mining a private fork of the chain and not announce it to the world. He could choose to spend all his cryptocurrency and use it to buy a house or a car.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/decentralised/hacksidechain.png&quot; alt=&quot;A double spend attack once an attacker controls 51% of mining power&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The attacker announces these transactions to the public blockchain. He also maintains a private blockchain where he does not mine these transactions. After a certain amount of time, he announces his private blockchain, and the community accepts this as it has the most amount of work put into it. Hence, the attacker would possess the cryptocurrency as well as the assets he bought.&lt;/p&gt;
+
+&lt;p&gt;Note that, at this stage everybody becomes aware of the fraud. This would drive down the price of the cryptocurrency. The community could choose to collectively fix the fraud. Or they could abandon the cryptocurrency altogether. They might also choose to not accept the attacker’s blockchain causing a hard fork in the blockchain. This would technically be breaking the protocol.&lt;/p&gt;
+
+&lt;p&gt;The other thing the attacker could do, is to block certain transactions for a prolonged period of time. This would also drive the price of the cryptocurrency down and reduce trust in the overall system. Eventually, the attacker will lose his majority share of mining power, allowing things to proceed smoothly. That being said, if this happens a few times, people will lose trust in the system.&lt;/p&gt;
+
+&lt;p&gt;It is quite difficult to pull off a 51% attack on large cryptocurrencies like bitcoin. The amount of computing power used for bitcoin is a lot, and attaining that much computing power is difficult. Furthermore, the electricity costs to run such a system would also add to the problem. Some sources estimate that this would cost around 15 billion USD. This makes it quite difficult to pull off a 51% attack on bitcoin in a profitable manner.&lt;/p&gt;
+
+&lt;p&gt;A malicious government might want to do this in order to take control of the bitcoin network. However, if this happens, it would cause a fork in the bitcoin chain as soon as the users realize what has happened. Nobody would want to stay on the compromised blockchain.&lt;/p&gt;
+
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ncPyMUfNyVM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This video summarizes this brilliantly. Note that a 51% attack might still be profitable for smaller cryptocurrencies.&lt;/p&gt;
+
+&lt;p&gt;While the long term effects of a 51% attack may not be detrimental, it will definitely have some undesirable short term consequences. &lt;a href=&quot;https://www.technologyreview.com/2019/02/19/239592/once-hailed-as-unhackable-blockchains-are-now-getting-hacked/&quot;&gt;These include hard forks in the cryptocurrency, price swings, loss of trust in the algorithm, illegal gains by attackers through double spending, and stolen cryptocurrency&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, the people worst hit by such an attack would be the ones who do not fully understand how cryptocurrencies work, as they would sell in a panic at a loss. This would most likely be the poorer sections of society.&lt;/p&gt;
+
+&lt;h2 id=&quot;can-decentralization-and-capitalism-co-exist&quot;&gt;Can Decentralization and Capitalism co-exist?&lt;/h2&gt;
+
+&lt;p&gt;Anybody can mine bitcoin. However, certain parties have invested so much money into computational resources for mining bitcoin that it is virtually impossible for an ordinary person to gain anything from mining bitcoin.&lt;/p&gt;
+
+&lt;p&gt;This brings us to the heart of the problem. Bitcoin made the possession of computational resources profitable. Computational resources can be bought for money. Hence, the distribution of computational resources would end up matching the wealth structure of our society, assuming everybody has the same amount of information. This would make income inequality worse as the rich would be able to successfully mine bitcoin, while the poor with the small amount of resources they have, would never be able to mine a block successfully.&lt;/p&gt;
+
+&lt;p&gt;One could enforce a rule limiting the number of blocks one miner can add to the blockchain in a day. However, this is like a communist regime limiting the income of its citizens. I find it hard to imagine a capitalist set of rules, where a cryptocurrency could be truly decentralized for a sustained period of time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Society shapes financial systems and financial systems shape society. However, bitcoin is too small to have any impact on society. Hence, the inequality inherent in society has leaked into bitcoin in more than one ways.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;some-possible-solutions&quot;&gt;Some Possible Solutions?&lt;/h2&gt;
+
+&lt;p&gt;A lot of blockchains are trying to democratize and decentralize. The best example is Ethereum which is resistant to ASICs and can be mined to GPU. This is partially helpful as it allows more people to mine Ethereum. However, the concentration of ethereum mining power into pools is far from democratic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/decentralised/ethpools.png&quot; alt=&quot;Ethereum mining pool shares&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Miners can switch mining pools easily, so perhaps mining pool power concentration is not such a bad thing. It is still possible for a set of people to buy up GPUs making it harder and less profitable to mine Ethereum.&lt;/p&gt;
+
+&lt;p&gt;One solution Ethereum is experimenting with is sharding, where the mining fees gets reduced and splits the ethereum chain into shards allowing more people to mine Ethereum. However, this does compromise the security of the overall Ethereum chain opening it up to single shard takeover attacks. For example, if 10% of the Ethereum miners always act in a deceptive manner (refusing transactions in order to drive the costs up for example), eventually they would be able to slow down a particular shard.&lt;/p&gt;
+
+&lt;p&gt;It is yet to be seen how successful Sharding will be as a protocol.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-thoughts&quot;&gt;Final Thoughts&lt;/h2&gt;
+
+&lt;p&gt;Cryptocurrencies are supposed to provide an alternative to the mismanagement of currencies by central banks. In order to successfully do this, they need to be decentralized. While Bitcoin and Ethereum are quite large, and are quite difficult to attack, smaller cryptocurrencies are still extremely vulnerable. Hence, there is a need for a protocol which can allow smaller cryptocurrencies to successfully operate.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, Bitcoin and Ethereum are still vulnerable to a 51% attack, even though such an attack would require a large number of resources, and most likely, be unprofitable. Perhaps a different consensus protocol might serve better in building a truly decentralized cryptocurrency.&lt;/p&gt;</content><author><name></name></author><category term="bitcoin" /><category term="decentralisation" /><category term="cryptocurrency" /><summary type="html">I’ve been working on a new electronic cash system that’s fully peer-to-peer, with no trusted third party. — Satoshi Nakamoto</summary></entry><entry><title type="html">What is Blockchain?</title><link href="http://localhost:4000/bitcoin/decentralisation/cryptocurrency/blockchain/2021/05/01/What-is-blockchain.html" rel="alternate" type="text/html" title="What is Blockchain?" /><published>2021-05-01T23:08:43+02:00</published><updated>2021-05-01T23:08:43+02:00</updated><id>http://localhost:4000/bitcoin/decentralisation/cryptocurrency/blockchain/2021/05/01/What-is-blockchain</id><content type="html" xml:base="http://localhost:4000/bitcoin/decentralisation/cryptocurrency/blockchain/2021/05/01/What-is-blockchain.html">&lt;p&gt;This article is not about bitcoin. It is about the technology underlying bitcoin. If you are looking to cut through the hype and understand how bitcoin works from a technical perspective, then you have come to the right place. This article will not tell you if you should invest in bitcoin. It will, however, help you develop your own opinion on the matter. Moreover, the applications of blockchain go well and beyond bitcoin.&lt;/p&gt;
+
+&lt;h2 id=&quot;when-did-the-first-blockchain-start&quot;&gt;When did the first blockchain start?&lt;/h2&gt;
+
+&lt;p&gt;Bitcoin was released in 2008, throwing blockchain into the limelight. However, the first blockchain was started in 1995. They publish the hash value of their blockchain in the New York Times each week. In their 1991 paper titled &lt;a href=&quot;https://link.springer.com/article/10.1007/BF00196791&quot;&gt;“How to Time-Stamp a Digital Document”&lt;/a&gt;, Haber and Stornetta laid the foundations for what is today known as blockchain. They were not trying to develop a decentralised currency, but were trying to solve a much more boring problem, namely, how to timestamp a document digitally.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blckchain/haber.jpg&quot; alt=&quot;Stuart Haber holding up the NYT page with the hash value&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This article covers the innovations from the said paper and &lt;a href=&quot;https://link.springer.com/chapter/10.1007/978-1-4613-9323-8_24&quot;&gt;“Improving the Efficiency and Reliability of Digital Time-Stamping”&lt;/a&gt; (1995, Haber and Stornetta). I will also talk about how these papers relate to bitcoin.&lt;/p&gt;
+
+&lt;p&gt;Before we can begin, we need to understand two cryptographic concepts, namely, cryptographic hash functions and digital signatures.&lt;/p&gt;
+
+&lt;h2 id=&quot;cryptographic-hash-functions&quot;&gt;Cryptographic Hash Functions&lt;/h2&gt;
+
+&lt;p&gt;A &lt;strong&gt;hash function&lt;/strong&gt; is a function which satisfies the following properties:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Flexible input size :&lt;/strong&gt; Its input can be of any size.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Fixed output:&lt;/strong&gt; It has a fixed length output. For our purposes, we will assume this to be 256 bits.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Efficient:&lt;/strong&gt; It is efficient to compute. In more technical terms, what this means is that the computation time is &lt;em&gt;O(n)&lt;/em&gt;, for an input string of size &lt;em&gt;n&lt;/em&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blockchain/hash.png&quot; alt=&quot;Sample hash function. It generates a fixed length output for any input.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For a hash function to be called a &lt;strong&gt;cryptographic hash function&lt;/strong&gt;, the following properties need to be satisfied as well:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Collision resistance:&lt;/strong&gt; What this means is that for any input &lt;em&gt;x&lt;/em&gt; such that &lt;em&gt;h(x)= y&lt;/em&gt;, we cannot easily find another input, say z, such that &lt;em&gt;y = h(z).&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Computationally non-invertible:&lt;/strong&gt; Given the output of a hash function, it is difficult to find the input from which that output was computed.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Puzzle-friendly:&lt;/strong&gt; Given an input-output pair of a hash function, does not convey any information about any other input-output pair. This is an important property of cryptographic hash functions, and bitcoin relies heavily on this.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We will not go into how hash functions are created. For our purposes, it is sufficient to say that such a function exists. One of the most commonly used hash functions is &lt;strong&gt;SHA-256.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As a side-note, I have only listed the properties of hash functions which are relevant for blockchain and bitcoin. In different applications of hash functions, slightly different properties might be needed.&lt;/p&gt;
+
+&lt;h2 id=&quot;digital-signatures&quot;&gt;Digital Signatures&lt;/h2&gt;
+
+&lt;p&gt;A digital signature is a scheme for verifying the authenticity of a message. A valid signature serves two purposes:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;It verifies the sender of the message.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It verifies the integrity of the message, i.e. the message was not altered in transit.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Both these properties are important for us in the blockchain context. I briefly cover how digital signatures work below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blockchain/keys.png&quot; alt=&quot;Alice generates a secret key and a public key so that she can join the blockchain network&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s say Alice decides to join our blockchain network. For this, she needs to generate a public key(pk), which is known to everyone on the network, and a secret key(sk), which she keeps to herself. Note that, the public key can double up as a unique username for Alice, acting as an anonymisation layer. It is hard to identify Alice as a person from her public key.&lt;/p&gt;
+
+&lt;p&gt;Now Alice wants to transmit a message to Bob who is also on the network.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blockchain/digital_sign.png&quot; alt=&quot;Alice signs a message and transmits it&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;She first appends her signature to the message and then transmits it to Bob.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blockchain/sign_verify.png&quot; alt=&quot;Bob verifies that the transmission is from Alice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bob can verify the message and the signature using Alice’s public key. If either the message or the signature are invalid, then Bob will know something is wrong and can ask Alice to re-transmit the message.&lt;/p&gt;
+
+&lt;p&gt;Note that it is sufficient that Bob knows just Alice’s public key and does not need her private key to verify her message and signature. This is based on a branch of cryptography known as asymmetric cryptography. The details of this are beyond the scope of this article.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-digital-time-stamping-problem&quot;&gt;The Digital Time-Stamping Problem&lt;/h2&gt;
+
+&lt;p&gt;We live in a digital world and consume music, movies and documents in digital form. In a lot of cases, the time at which a document is created is important. It is hard to prevent someone from post-dating or pre-dating digital content, as things in the digital world can be copied easily.&lt;/p&gt;
+
+&lt;h3 id=&quot;naive-solution&quot;&gt;Naive Solution&lt;/h3&gt;
+
+&lt;p&gt;One possible solution would be to have a central authority store digital content at the time of creation. If there is a dispute, the central authority can be asked to check their records. This approach could work, but has the following drawbacks:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bandwidth and storage&lt;/strong&gt;: Large files need to be transferred and stored&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Trust&lt;/strong&gt;: There is no way to check if the central authority is not corrupt&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Incompetence&lt;/strong&gt;: The central authority could make a mistake in timestamping or processing of the document.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Privacy&lt;/strong&gt;: The document could get leaked during transmission. Furthermore, the central authority could get hacked.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With a bit of cryptography, we are able to arrive at a much better solution.&lt;/p&gt;
+
+&lt;h3 id=&quot;improvements-on-the-solution&quot;&gt;Improvements on the solution&lt;/h3&gt;
+
+&lt;p&gt;The first change is to transmit the hash of the document to the central authority rather than the document itself. This solves the issue of bandwidth and storage. It also addresses the privacy concern.&lt;/p&gt;
+
+&lt;p&gt;The central authority upon receiving the hash value appends the time at which it receives the hash. It digitally signs this sequence and sends back the signature to the client. This acts as a receipt for the client, allowing him to verify that the document was correctly received and processed. This is the second change. This solves the trust issue.&lt;/p&gt;
+
+&lt;p&gt;We still have the incompetence issue. For example, the central authority could assign a wrong timestamp. Even though the client can find out the timestamp through the signature, it is difficult for him to correct this without a dispute. In order to solve this, we use a linking structure, where a document can only be added to the end of the chain.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blockchain/bc.png&quot; alt=&quot;A sample blockchain stored by a central authority&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The central authority on receiving the document hash appends the client ID, the transaction ID and the timestamp. This is called a block. On receiving a new request, it appends the hash of the previous block, and appends all the new information to form the new block. This forms a chain of blocks and is called a blockchain.&lt;/p&gt;
+
+&lt;p&gt;To summarise our timestamping service works as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;The client sends a hash of a document to the central authority.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The central authority forms a block out of this hash by appending it to the previous hash, the client and transaction ID, and the timestamp. This block is appended to the existing chain stored by the central authority.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The central authority sends back a digital signature of the block to the client verifying that the document has been processed correctly.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In this setup, if the central authority tries to change a particular timestamp, it would have to change all the hashes of the successive blocks. It would also have to issue new signatures to each of the clients.&lt;/p&gt;
+
+&lt;p&gt;In case a challenger wishes to check the timestamp of a document, it is possible to ask the client for the hash of the document and locate it in the blockchain.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-de-centralised-solution&quot;&gt;A De-centralised Solution&lt;/h3&gt;
+
+&lt;p&gt;So far, we have talked about building a blockchain which is dependent on a central authority. However, a major factor in the success of blockchain has been its decentralised nature. This is what the bitcoin paper provides us with: A decentralised framework for a blockchain.&lt;/p&gt;
+
+&lt;p&gt;But where would the blockchain be stored if it was decentralised?&lt;/p&gt;
+
+&lt;p&gt;One idea is to have a network of peers store a copy of the blockchain. This leads us to two problems:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Adding new blocks&lt;/strong&gt;: Who can add new blocks to the chain? How is this done?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Synchronisation&lt;/strong&gt;: How are the blockchains synchronised across the network of peers?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We discuss one possible protocol to resolve this issue. The key idea is that computational work is something of value. A blockchain with more computational work is considered to be the correct one.&lt;/p&gt;
+
+&lt;p&gt;When a user wants to add a new document, he can broadcast the hash of the document to the network of peers. In order to add this document to the chain, the peers need to do some amount of computational work. The idea is to append a sequence of bits to the block so that the hash always begins with a certain number of zeros. Due to the puzzle-friendly nature of hash functions, the best strategy to find this sequence is to use a brute force strategy.&lt;/p&gt;
+
+&lt;p&gt;The number of zeros depends on the implementation of the blockchain. Bitcoin changes the number of zeros, such that it takes approximately 10 minutes to calculate it. Note that, this is also the reason that bitcoin consumes so much energy and can only process around 7 transactions per second (as compared to visa which does between 30,000–70,000 transactions per second).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blockchain/bcpow.png&quot; alt=&quot;A blockchain with proof of work&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once this sequence of bits is found, the block can be added to the chain. In case there are two different versions of the chain between peers, we can just use the longest chain as our point of truth, as it has the most amount of work put into it. In case two different chains have the same length on the network, just wait till one of them becomes longer, and use that as the point of truth.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Blockchain uses a bunch of existing concepts from cryptography and computer science to come up with a new protocol. It is important to understand each concept, to understand the various design choices and applications of blockchain.&lt;/p&gt;
+
+&lt;p&gt;We are already seeing blockchain being applied to a large number of fields. Some of these are currently being explored by the community. Blockchain is going to impact our lives in the coming years. Only time will tell how big this impact will be.&lt;/p&gt;</content><author><name></name></author><category term="bitcoin" /><category term="decentralisation" /><category term="cryptocurrency" /><category term="blockchain" /><summary type="html">This article is not about bitcoin. It is about the technology underlying bitcoin. If you are looking to cut through the hype and understand how bitcoin works from a technical perspective, then you have come to the right place. This article will not tell you if you should invest in bitcoin. It will, however, help you develop your own opinion on the matter. Moreover, the applications of blockchain go well and beyond bitcoin.</summary></entry><entry><title type="html">Meeting Your Friends</title><link href="http://localhost:4000/bitcoin/decentralisation/cryptocurrency/blockchain/2021/05/01/Meeting-your-friends.html" rel="alternate" type="text/html" title="Meeting Your Friends" /><published>2021-05-01T23:06:43+02:00</published><updated>2021-05-01T23:06:43+02:00</updated><id>http://localhost:4000/bitcoin/decentralisation/cryptocurrency/blockchain/2021/05/01/Meeting-your-friends</id><content type="html" xml:base="http://localhost:4000/bitcoin/decentralisation/cryptocurrency/blockchain/2021/05/01/Meeting-your-friends.html">&lt;p&gt;&lt;img src=&quot;/assets/friends/friends.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I placed 4 packs of what could be easily mistaken for sugar on the deck of the yacht. “What is that?”, questioned Jack, without even looking up. He had his arms wrapped around his girlfriend, Carina. “That is the new drug in town”, I replied. “It melts the consciousness of all the people who take it”, I continued.&lt;/p&gt;
+
+&lt;p&gt;“You can feel what other people are feeling and gain more empathy. At least that’s the idea”, I said.&lt;/p&gt;
+
+&lt;p&gt;“Does that mean other people will feel my headaches?”, asked Anton. Anton had started having these headaches four years ago and was constantly complaining about them. We had all learned to just ignore him.&lt;/p&gt;
+
+&lt;p&gt;“I am sure it isn’t as bad as you say it is”, quipped Jack.&lt;/p&gt;
+
+&lt;p&gt;Jack’s dad owned the yacht we were own. We were celebrating the end of high school. We had been friends since childhood, though we were very different from each other at this point. Jack was the prom king, good at sports, rich and had the prettiest girl in his arms. I was the nerd who would be going to MIT in the coming fall. Anton was the fat, unhealthy and awkward kid. But we had stuck with each other since childhood, and helped each other discover new things through the years.&lt;/p&gt;
+
+&lt;p&gt;“So are we doing this or what?”, I asked.&lt;/p&gt;
+
+&lt;p&gt;“I am not sure we should”, said Carina. Carina had started hanging out with us the past year. Jack had started dating her a couple of years ago.&lt;/p&gt;
+
+&lt;p&gt;“Oh come on, it’ll be fun”, said Jack, picking up one of the packs.&lt;/p&gt;
+
+&lt;p&gt;We followed his lead, and swallowed the sugar like substance.&lt;/p&gt;
+
+&lt;p&gt;Jack poured himself a whisky. “So what happens next?”&lt;/p&gt;
+
+&lt;p&gt;“You gotta wait like 30 mins or so for it to kick in . Then you should start to feel its effects”, I replied.&lt;/p&gt;
+
+&lt;p&gt;“What is this supposed to be like”, asked Anton.&lt;/p&gt;
+
+&lt;p&gt;“Do you know about Rawl’s Veil of Ignorance?”, I asked.&lt;/p&gt;
+
+&lt;p&gt;Everyone stared back at me with blank eyes.&lt;/p&gt;
+
+&lt;p&gt;“So this dude Rawls said, if you were to pick how society should be structured, how would you do it? You can choose to make things equal or unequal, but the catch is, you don’t know which part of society you end up getting caught in.”, I continued.&lt;/p&gt;
+
+&lt;p&gt;“What does that have to do with this drug we just did?”, asked Carina.&lt;/p&gt;
+
+&lt;p&gt;“Well, we don’t really know what your friends are going through. I mean, they can tell you, but words carry so much baggage which is different to different people that feelings can never be properly translated. You might feel jealous of your friends cause their lives look awesome. This drug will help you answer, if you should have been born as them”, I replied.&lt;/p&gt;
+
+&lt;p&gt;“Well, you will finally know what my headaches feel like”, said Anton.&lt;/p&gt;
+
+&lt;p&gt;Jack was looking out at sea. The weather was perfect, with not a cloud in the bright blue sky. Nothing could go wrong.&lt;/p&gt;
+
+&lt;p&gt;We started talking for a while. Things felt normal. Jack started telling a story about himself winning the basketball championship a month back. I sat back and enjoyed the moment.&lt;/p&gt;
+
+&lt;p&gt;Then it happened. Carina felt it first. You could see it in her face. Then Jack and finally I caught on. I felt a raging pain in the back of my head. I wanted to pass out, but I couldn’t. Anton looked at us and understood what had happened. He had gotten used to the headaches over the years, but this new pain was unbearable for us.&lt;/p&gt;
+
+&lt;p&gt;“Fuck”, said Carina, trying to keep a straight face.&lt;/p&gt;
+
+&lt;p&gt;“I’m sure it’ll be fine. We just need to distract ourselves”, said Jack.&lt;/p&gt;
+
+&lt;p&gt;He grabbed Carina and went below the deck. He wanted to show everyone how amazing his life was.&lt;/p&gt;
+
+&lt;p&gt;The sex was disappointing as always. The only difference was that, this time everyone knew it, including Jack. He pulled up his pants and climbed up to the deck, leaving Carina downstairs. He looked around ashamed. He knew what others thought about him now, and it was not nice. Nowhere as nice as he had deluded himself to be.&lt;/p&gt;
+
+&lt;p&gt;He walked up to Anton and grabbed him by the collar. “Make it stop, before I throw you off my yacht”, he screamed.&lt;/p&gt;
+
+&lt;p&gt;“Go ahead, but you’ll know exactly how it feels to drown as well”, he replied with a smirk.&lt;/p&gt;
+
+&lt;p&gt;Jack pushed him away and let him go. He sat down and turned to me, “how can we make this stop”.&lt;/p&gt;
+
+&lt;p&gt;He was asking about the drug now. “We can’t”, I replied.&lt;/p&gt;
+
+&lt;p&gt;Jack lowered his face in shame. The worst part for him was not the headaches or that his friends didn’t really like him. It was the way Carina felt about him.&lt;/p&gt;
+
+&lt;p&gt;Carina was still below deck cowering in shame. She only went out with Jack cause he was the most popular guy at school. He treated her like shit, but she enjoyed the money and the parties and the status that she now had. This was all fine, till today. Now everyone knew how she felt about Jack. How much she actually hated him, and how much they hated her. She had nowhere to turn now. No real friends that she could talk to.&lt;/p&gt;
+
+&lt;p&gt;She eventually climbed up to the deck and sat as far away from Jack as she could. She looked out at the sea, trying to avoid everyone and anyone.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile the headache raged on, for all of us.&lt;/p&gt;
+
+&lt;p&gt;I started to think about the life ahead of me. I wanted to have Jack’s money, his status, his popularity. But I would have to earn it. No matter how hard I worked, I wasn’t sure I could.&lt;/p&gt;
+
+&lt;p&gt;“You’re right, you know”, said Jack.&lt;/p&gt;
+
+&lt;p&gt;I looked up startled. I realized Jack had guessed my thoughts. I felt like a thief caught in the act.&lt;/p&gt;
+
+&lt;p&gt;“You will never catch up to me. No matter what you do”, said Jack with a smirk.&lt;/p&gt;
+
+&lt;p&gt;I was looking forward to going off to college, getting away from it all. Getting away from all the people who knew all my deepest darkest secrets. I would be gone in a few months. The problem would be getting through the next few hours though.&lt;/p&gt;</content><author><name></name></author><category term="bitcoin" /><category term="decentralisation" /><category term="cryptocurrency" /><category term="blockchain" /><summary type="html"></summary></entry></feed>
